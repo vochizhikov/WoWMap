@@ -1,4 +1,4 @@
-﻿using System;
+using System;12
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -9,7 +9,7 @@ namespace WoWMapRenderExportTester
     static class Program
     {
         /// <summary>
-        /// Point d'entrée principal de l'application.
+        /// Point d'entr?e principal de l'application.
         /// </summary>
         [STAThread]
         static void Main()
